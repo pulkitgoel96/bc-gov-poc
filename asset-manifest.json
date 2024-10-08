@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bc-gov-poc/static/css/main.f855e6bc.css",
+    "main.js": "/bc-gov-poc/static/js/main.ac03d5e2.js",
+    "static/js/453.740e3a5e.chunk.js": "/bc-gov-poc/static/js/453.740e3a5e.chunk.js",
+    "static/media/logo.svg": "/bc-gov-poc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bc-gov-poc/index.html",
+    "main.f855e6bc.css.map": "/bc-gov-poc/static/css/main.f855e6bc.css.map",
+    "main.ac03d5e2.js.map": "/bc-gov-poc/static/js/main.ac03d5e2.js.map",
+    "453.740e3a5e.chunk.js.map": "/bc-gov-poc/static/js/453.740e3a5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ac03d5e2.js"
+  ]
+}
