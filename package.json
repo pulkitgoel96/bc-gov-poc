@@ -10,6 +10,9 @@
     "@types/node": "^16.18.113",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
+    "axios": "^1.7.7",
+    "fast-xml-parser": "^4.5.0",
+    "openai": "^4.67.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -43,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@types/xml2js": "^0.4.14",
     "gh-pages": "^6.1.1"
   },
   "homepage": "https://pulkitgoel96.github.io/bc-gov-poc/"
